@@ -1,4 +1,6 @@
+Bonjout git - fusion de main et experimentation
 Bonjour git depuis main
+Bonjour git depuis experimentation
 Deuxième ligne ajoutée
 Ligne écrite dépuis la branche experimentation
 Quatrième ligne ajouté
